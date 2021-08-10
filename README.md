@@ -11,3 +11,10 @@ Please refer to [1] if the code is used in a project.
 [2] S. Greydanus, M. Dzamba, and J. Yosinski. "Hamiltonian neural networks." Advances in Neural Information Processing Systems, 32:15379–15389 (2019).
 
 [3] T. Matsubara, A. Ishikawa, and T. Yaguchi. Deep energy-based modeling of discrete-time physics. arXiv preprint, arXiv:1905.08604 (2019).
+
+## Dependencies
+* PyTorch
+* NumPy
+* Scipy
+* Autograd
+* Matplotlib
