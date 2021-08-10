@@ -2,7 +2,7 @@
 
 This code is meant as a supplement to [1], and is an implementation of the higher order discrete gradient methods for Hamiltonian neural networks presented there. It builds on 
 * DGNet by Matsubara et al [3] (https://github.com/tksmatsubara/discrete-autograd), which again builds on
-* Hamiltonian neural networks by Greydanus et al. [2] (github.com/greydanus/hamiltonian-nn).
+* Hamiltonian neural networks by Greydanus et al. [2] (https://github.com/greydanus/hamiltonian-nn).
 
 Please refer to [1] if the code is used in a project.
 
