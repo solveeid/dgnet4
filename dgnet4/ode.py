@@ -1,3 +1,7 @@
+# Higher order DGNet
+# by Sølve Eidnes, 2021
+# See "Order theory for discrete gradient methods" (https://arxiv.org/abs/2003.08267)
+#
 # This file is a slight modification of the similarly named file from
 #   DGNet: Deep Energy-based Modeling of Discrete-Time Physics (2020)
 #   by Takashi Matsubara, Ai Ishikawa, Takaharu Yaguchi
